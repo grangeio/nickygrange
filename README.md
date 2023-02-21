@@ -1,4 +1,4 @@
-- @nickygrange
+
 - Computer Science student.
 
 <!---
